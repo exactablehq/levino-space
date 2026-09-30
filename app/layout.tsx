@@ -8,7 +8,7 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Coming Soon | Realtor X",
+  title: "Coming Soon | Levino.space",
   description:
     "Our website is under construction. Be notified as soon as our new website is available.",
 };
